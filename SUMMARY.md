@@ -45,5 +45,5 @@
 ## See also
 
 * [FlatQube](https://docs.flatqube.io)
-* [Octus Bridge](https://docs.octusbridge.io)
+* [Octus Bridge](https://docs.octusbridge.io/)
 * [Broxus Github](https://github.com/broxus)
