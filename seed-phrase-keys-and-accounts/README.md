@@ -1,2 +1,2 @@
-# 🔑 Seed phrase, keys and accounts
+# Seed phrase, keys and accounts
 
