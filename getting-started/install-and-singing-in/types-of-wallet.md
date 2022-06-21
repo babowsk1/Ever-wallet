@@ -7,7 +7,7 @@ EVER Wallet supports the creation of several types of wallets, which differ in t
 **SetCodeMultisigWallet** - Multisig wallet with the possibility to change codes and custodians. **BridgeMultisigWallet** - this kind of wallet differs from SafeMultisig because it does not have payload limits.&#x20;
 
 {% hint style="info" %}
-If you want to use a multisig wallet with 3 or more custodians on [FlatQube ](broken-reference)and [Octus Bridge](https://docs.octusbridge.io), be sure to use **BridgeMultisigWallet** type!
+If you want to use a multisig wallet with 3 or more custodians on [FlatQube ](broken-reference)and [Octus Bridge](https://docs.octusbridge.io/), be sure to use **BridgeMultisigWallet** type!
 {% endhint %}
 
 **Surf** - Technically, this kind of wallet is the same as SetCodeMultisig. You should use this kind of wallet to import your Ever Surf wallet. \

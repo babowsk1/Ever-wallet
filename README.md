@@ -1,6 +1,11 @@
-# 👋 Welcome to EVER Wallet
+---
+cover: .gitbook/assets/EVER wallet_gitbook.png
+coverY: 0
+---
 
-The [Broxus team](https://broxus.com) welcomes you to the Gitbook EVER Wallet page!\
+# Welcome to EVER Wallet
+
+The [Broxus team](https://broxus.com/) welcomes you to the Gitbook EVER Wallet page!\
 On the pages of this space you will find everything you need to know to use [EVER Wallet](https://l1.broxus.com/everscale/wallet).
 
 If you are not familiar with [EVER Wallet](https://l1.broxus.com/everscale/wallet) yet or are planning to start getting acquainted with it, go to the start page!

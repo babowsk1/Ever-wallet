@@ -4,7 +4,7 @@ description: Install EVER Wallet Chrome extension
 
 # EVER Wallet Extension
 
-1. Go to the [download page](https://l1.broxus.com) and select **Chrome Web Store**
+1. Go to the [download page](https://l1.broxus.com/) and select **Chrome Web Store**
 2. Click **Add to Chrome** and then confirm this action by clicking **Add extension.**
 3. And don't forget to **pin** EVER Wallet in the list of displayed extensions! (upper right corner of Chrome)
 
