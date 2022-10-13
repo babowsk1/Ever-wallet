@@ -5,7 +5,7 @@ Let's start from the very beginning:
 
 1\. Proceed to [**create** ](../getting-started/install-and-singing-in/creating-a-new-wallet.md)or [**add a new account**](../seed-phrase-keys-and-accounts/account-management/). Choose a name for the new account and click **Next**.
 
-2\. Choose the appropriate [type of wallet](../getting-started/install-and-singing-in/types-of-wallet.md) and click **Create account**.
+2\. Choose the appropriate [type of wallet](../getting-started/install-and-singing-in/types-of-account.md) and click **Create account**.
 
 {% hint style="warning" %}
 If you want to use a multisig wallet with 3 or more custodians on FlatQube and Octus Bridge, be sure to use **BridgeMultisigWallet** type!

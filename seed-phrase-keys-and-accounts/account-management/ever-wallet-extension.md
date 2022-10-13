@@ -26,7 +26,7 @@ At the top of the list of accounts linked to the key, click **+ Add new** to lin
 
 1. Select **Create new account.**&#x20;
 2. Enter a display name for the new account&#x20;
-3. Choose a wallet type. Recall that for each key, you can create one wallet of each type.&#x20;
+3. Choose a [account type.](../../getting-started/install-and-singing-in/types-of-account.md) Recall that for each key, you can create one wallet of each type.&#x20;
 4. Now you can go to the card of this account (Go to account).
 
 ![](<../../.gitbook/assets/image (2).png>)

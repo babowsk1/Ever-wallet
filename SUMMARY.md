@@ -12,7 +12,7 @@
     * [Creating a new wallet](getting-started/install-and-singing-in/creating-a-new-wallet.md)
     * [Sign in with existing seed phrase](getting-started/install-and-singing-in/sign-in-with-existing-seed-phrase.md)
     * [Sign in with existing backup](getting-started/install-and-singing-in/sign-in-with-existing-backup.md)
-    * [Types of wallet](getting-started/install-and-singing-in/types-of-wallet.md)
+    * [Types of account](getting-started/install-and-singing-in/types-of-account.md)
     * [Deploy](getting-started/install-and-singing-in/deploy/README.md)
       * [How to deploy your wallet](getting-started/install-and-singing-in/deploy/how-to-deploy-your-wallet/README.md)
         * [EVER Wallet App](getting-started/install-and-singing-in/deploy/how-to-deploy-your-wallet/ever-wallet-app.md)
