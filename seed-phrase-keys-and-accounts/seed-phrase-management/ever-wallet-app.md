@@ -4,7 +4,7 @@ To manage your seed phrases, go to the **Profile section** at the bottom right o
 
 Click **Add seed** to [import a seed](../../getting-started/install-and-singing-in/sign-in-with-existing-backup.md) or [create a new one](../../getting-started/install-and-singing-in/creating-a-new-wallet.md).&#x20;
 
-![](<../../.gitbook/assets/image (3).png>)
+![](<../../.gitbook/assets/image (3) (1).png>)
 
 You can also change the seed's **password** and **display name**.\
 ****If you have lost your seed phrase, you can look it up again by clicking **Export seed phrase.**\
