@@ -13,7 +13,7 @@ In order to deploy your wallet you will need some EVER. Find out how to get them
 1. Once you have EVERs in your wallet, you can click on the **Deploy** button.
 2. Select the type of wallet you wish to deploy: Standart (if you are the only user of the wallet) or [Multisig](../../../../multisig/) (if the transaction has to be approved via different signatures)**.**
 
-![](<../../../../.gitbook/assets/image (2).png>)
+![](<../../../../.gitbook/assets/image (2) (1).png>)
 
 3\. Click **Next**, then **Deploy**. Then сonfirm the transaction by entering the wallet password and wait for it to complete.
 

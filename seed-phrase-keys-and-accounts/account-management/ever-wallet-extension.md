@@ -20,7 +20,7 @@ Here you can:&#x20;
 
 At the top of the list of accounts linked to the key, click **+ Add new** to link the account (or you can do it by adding an account on the main screen of EVER Wallet by switching the account card).
 
-![](<../../.gitbook/assets/image (1).png>)
+![](<../../.gitbook/assets/image (1) (1).png>)
 
 ### Create new
 
@@ -29,7 +29,7 @@ At the top of the list of accounts linked to the key, click **+ Add new** to lin
 3. Choose a wallet type. Recall that for each key, you can create one wallet of each type.&#x20;
 4. Now you can go to the card of this account (Go to account).
 
-![](../../.gitbook/assets/image.png)
+![](<../../.gitbook/assets/image (2).png>)
 
 ### Add existing
 
