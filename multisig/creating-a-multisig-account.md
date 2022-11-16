@@ -13,7 +13,7 @@ If you want to use a multisig wallet with 3 or more custodians on FlatQube and O
 
 <figure><img src="../.gitbook/assets/image (2) (3).png" alt=""><figcaption></figcaption></figure>
 
-3\. When the wallet is created, proceed to [**deploy**](../getting-started/install-and-singing-in/deploy.md).&#x20;
+3\. When the wallet is created, proceed to [**deploy**](../getting-started/install-and-singing-in/deploy/).&#x20;
 
 4\. When deploying, select **Multi-signature** wallet and click **Next**.&#x20;
 

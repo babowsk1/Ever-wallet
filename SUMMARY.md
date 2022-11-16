@@ -13,7 +13,7 @@
     * [Sign in with existing seed phrase](getting-started/install-and-singing-in/sign-in-with-existing-seed-phrase.md)
     * [Sign in with existing backup](getting-started/install-and-singing-in/sign-in-with-existing-backup.md)
     * [Types of account](getting-started/install-and-singing-in/types-of-account.md)
-    * [Deploy](getting-started/install-and-singing-in/deploy.md)
+    * [Deploy](getting-started/install-and-singing-in/deploy/README.md)
   * [How to get EVER](getting-started/how-to-get-ever.md)
 * [Manage assets](manage-assets/README.md)
   * [How to add tokens to your wallet](manage-assets/how-to-add-tokens-to-your-wallet.md)
