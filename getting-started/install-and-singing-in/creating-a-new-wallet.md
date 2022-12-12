@@ -5,7 +5,7 @@
 3. Pass through the seed phrase verification process.&#x20;
 4. Create a password. You’re going to need your password in order to confirm all the transactions you make with the wallet.
 
-<figure><img src="../../.gitbook/assets/image (12).png" alt=""><figcaption></figcaption></figure>
+<figure><img src="../../.gitbook/assets/image (12) (1).png" alt=""><figcaption></figcaption></figure>
 
 Now you’ve got your wallet all set up and you can start really working with your EVER Wallet!\
 In order to start fully using your EVER Wallet, you need to get [**EVER** ](../how-to-get-ever.md)and [**deploy** ](deploy/)your wallet:

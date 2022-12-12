@@ -38,5 +38,5 @@ At the top of the list of accounts linked to the key, click **+ Add new** to lin
 3. Enter a **multisig address.**
 4. Click **Add account.**
 
-![](<../../.gitbook/assets/image (9).png>)
+![](<../../.gitbook/assets/image (9) (1).png>)
 

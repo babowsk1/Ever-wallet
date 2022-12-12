@@ -17,6 +17,6 @@ So, the sequence for deploying an account is as follows:
 6. Confirm the transaction in the Ever Wallet window that opens and wait for it to complete
 7. Once the transaction is complete, you will be able to send and stake EVER
 
-<figure><img src="../../../.gitbook/assets/image (1).png" alt=""><figcaption></figcaption></figure>
+<figure><img src="../../../.gitbook/assets/image (35).png" alt=""><figcaption></figcaption></figure>
 
 Congratulations! You have successfully deployed the wallet.
