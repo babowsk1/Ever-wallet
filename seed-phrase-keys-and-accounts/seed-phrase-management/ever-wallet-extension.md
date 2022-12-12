@@ -1,6 +1,6 @@
 # EVER Wallet Extension
 
-## Manage seeds & accounts
+Manage seeds & accounts
 
 Go to the **Profile menu** and then click on **Manage seeds & accounts**.
 
@@ -14,6 +14,20 @@ You will see all seed phrases currently linked to the wallet. Here you can:&#x20
 2. Enter the name of the original phrase and then choose whether to [**create a new phrase**](../../getting-started/install-and-singing-in/creating-a-new-wallet.md) or [**import an existing one**](../../getting-started/install-and-singing-in/sign-in-with-existing-seed-phrase.md), then click next.&#x20;
 
 ![](<../../.gitbook/assets/image (31).png>)
+
+## Delete seed phrase
+
+You can remove any of the seed phrases from the list.
+
+This seed phrase does not have to be the current one or the only one. \
+You can always bring it back using the [export menu](ever-wallet-extension.md#export-seed-phrase).
+
+1. Go to the seeds and accounts management menu.
+2. Select the seed you want to remove and click on it.
+3. Click on the three dots at the top right of the window that opens and press Delete
+4. Confirm this action by clicking Delete at the bottom of the window that opens.
+
+<figure><img src="../../.gitbook/assets/image.png" alt=""><figcaption></figcaption></figure>
 
 ## Export seed phrase
 
