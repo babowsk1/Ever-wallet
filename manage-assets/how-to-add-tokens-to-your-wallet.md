@@ -9,7 +9,7 @@ To add other tokens to your wallet you have to click on the **Select Assets** me
 2. Select the tokens that will be displayed in your wallet by moving the sliders to the right
 3. Click on <mark style="color:orange;">**Save**</mark>
 
-<figure><img src="../.gitbook/assets/image (3).png" alt=""><figcaption></figcaption></figure>
+<figure><img src="../.gitbook/assets/image (3) (3).png" alt=""><figcaption></figcaption></figure>
 
 ## Adding custom tokens
 

@@ -12,7 +12,7 @@ To see all your transactions, go to the <mark style="color:orange;">**transactio
 In this case, only the number of spent or received to the EVER address is displayed!
 {% endhint %}
 
-<figure><img src="../.gitbook/assets/image.png" alt=""><figcaption></figcaption></figure>
+<figure><img src="../.gitbook/assets/image (3).png" alt=""><figcaption></figcaption></figure>
 
 ## Specific tokens transactions
 
