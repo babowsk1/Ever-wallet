@@ -8,7 +8,7 @@ description: Install EVER Wallet Chrome extension
 2. Click **Add to Chrome** and then confirm this action by clicking **Add extension.**
 3. And don't forget to **pin** EVER Wallet in the list of displayed extensions! (upper right corner of Chrome)
 
-![](<../../../.gitbook/assets/image (43).png>)
+<figure><img src="../../../.gitbook/assets/image (4).png" alt=""><figcaption></figcaption></figure>
 
 Immediately after installation, you will be redirected to the "Welcome to EVER Wallet" page, where you will be asked to:&#x20;
 

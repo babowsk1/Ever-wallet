@@ -7,5 +7,5 @@ EVER Scan will allow you to search and explore data about recently mined blocks 
 
 You can go to any transaction page in EVER Scan [directly from your EVER Wallet](../manage-assets/transactions.md#transaction-information).
 
-![](<../.gitbook/assets/image (23).png>)
+![](<../.gitbook/assets/image (23) (1).png>)
 

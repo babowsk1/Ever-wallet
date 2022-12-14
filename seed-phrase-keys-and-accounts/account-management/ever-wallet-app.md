@@ -8,4 +8,4 @@ In the window that opens, you can navigate to:&#x20;
 * **Custodians** - this menu displays a list of custodians in your [multisig wallet](../../multisig/).&#x20;
 * **Remove account** - by clicking, you can remove the account from the displayed ones.
 
-![](<../../.gitbook/assets/image (28).png>)
+<figure><img src="../../.gitbook/assets/image (41).png" alt=""><figcaption></figcaption></figure>

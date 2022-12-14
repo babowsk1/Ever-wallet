@@ -11,7 +11,7 @@ Let's start from the very beginning:
 If you want to use a multisig wallet with 3 or more custodians on FlatQube and Octus Bridge, be sure to use **BridgeMultisigWallet** type!
 {% endhint %}
 
-<figure><img src="../.gitbook/assets/image (2) (3).png" alt=""><figcaption></figcaption></figure>
+<figure><img src="../.gitbook/assets/image (45).png" alt=""><figcaption></figcaption></figure>
 
 3\. When the wallet is created, proceed to [**deploy**](../getting-started/install-and-singing-in/deploy/).&#x20;
 
@@ -21,7 +21,7 @@ If you want to use a multisig wallet with 3 or more custodians on FlatQube and O
 
 6\. Click **Deploy**.
 
-![](<../.gitbook/assets/image (4).png>)
+<figure><img src="../.gitbook/assets/image (12).png" alt=""><figcaption></figcaption></figure>
 
 Now your multisig wallet is ready to go. \
 Now the custodian needs to [**add it to his EVER Wallet** ](add-a-multisig-account.md)to confirm transactions.

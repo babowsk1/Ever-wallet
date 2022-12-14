@@ -6,14 +6,14 @@ Go to the **Profile menu** and then click on **Manage seeds & accounts**.
 
 You will see all seed phrases currently linked to the wallet. Here you can:&#x20;
 
-<figure><img src="../../.gitbook/assets/image.png" alt=""><figcaption></figcaption></figure>
+<figure><img src="../../.gitbook/assets/image (5).png" alt=""><figcaption></figcaption></figure>
 
 ## Add a new seed phrase
 
 1. Click **+ Add new** at the top right of the window.&#x20;
 2. Enter the name of the original phrase and then choose whether to [**create a new phrase**](../../getting-started/install-and-singing-in/creating-a-new-wallet.md) or [**import an existing one**](../../getting-started/install-and-singing-in/sign-in-with-existing-seed-phrase.md), then click next.&#x20;
 
-<figure><img src="../../.gitbook/assets/image (16).png" alt=""><figcaption></figcaption></figure>
+<figure><img src="../../.gitbook/assets/image (16) (2).png" alt=""><figcaption></figcaption></figure>
 
 ## Delete seed phrase
 
@@ -27,7 +27,7 @@ You can always bring it back using the [export menu](ever-wallet-extension.md#ex
 3. Click on the three dots at the top right of the window that opens and press Delete
 4. Confirm this action by clicking Delete at the bottom of the window that opens.
 
-<figure><img src="../../.gitbook/assets/image (12).png" alt=""><figcaption></figcaption></figure>
+<figure><img src="../../.gitbook/assets/image (12) (2).png" alt=""><figcaption></figcaption></figure>
 
 ## Export seed phrase
 
@@ -43,5 +43,5 @@ If you have lost your seed phrase, you can look it up again:&#x20;
 
 You can create a backup file of your seeds, for [quick entry](../../getting-started/install-and-singing-in/sign-in-with-existing-backup.md), in case of log out from the EVER Wallet extension:
 
-<figure><img src="../../.gitbook/assets/image (3).png" alt=""><figcaption></figcaption></figure>
+<figure><img src="../../.gitbook/assets/image (3) (1).png" alt=""><figcaption></figcaption></figure>
 

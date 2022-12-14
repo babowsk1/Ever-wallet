@@ -2,7 +2,7 @@
 
 By clicking on the transport name at the top of your screen, you can change between various networks.
 
-![](<../.gitbook/assets/image (34).png>)
+![](<../.gitbook/assets/image (34) (1).png>)
 
 This can be useful if you are experiencing problems with transactions through your wallet.
 

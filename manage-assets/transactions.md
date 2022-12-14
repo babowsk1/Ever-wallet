@@ -12,14 +12,14 @@ To see all your transactions, go to the <mark style="color:orange;">**transactio
 In this case, only the number of spent or received to the EVER address is displayed!
 {% endhint %}
 
-![](<../.gitbook/assets/image (44).png>)
+<figure><img src="../.gitbook/assets/image.png" alt=""><figcaption></figcaption></figure>
 
 ## Specific tokens transactions
 
 To view transactions for a specific token, **click on that token** on the main page of the wallet. \
 In this case, you will go to the menu of this token, where, in particular, the history of transactions is displayed.
 
-![](<../.gitbook/assets/image (41).png>)
+<figure><img src="../.gitbook/assets/image (8).png" alt=""><figcaption></figcaption></figure>
 
 {% hint style="info" %}
 If the required token is not listed on the main page, it can be added using the [Select Assets](./) menu.
@@ -39,4 +39,4 @@ Here you can see the following transaction details:&#x20;
 
 By clicking on **Open in explorer**, you will open the page of this transaction on [EVER Scan - Everscale blockchain explorer.](../concepts/ever-scan-everscale-explorer.md)
 
-![](<../.gitbook/assets/image (32).png>)
+<figure><img src="../.gitbook/assets/image (30).png" alt=""><figcaption></figcaption></figure>
