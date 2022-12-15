@@ -3,7 +3,7 @@
 Go to your **profile menu** and click **Manage seeds & accounts**. \
 Since your accounts are tied to keys, and keys to seeds - select the desired seed, and then the key by clicking on them to go to the **account management menu**.
 
-<figure><img src="../../.gitbook/assets/image (43).png" alt=""><figcaption></figcaption></figure>
+<figure><img src="../../.gitbook/assets/image (43) (2).png" alt=""><figcaption></figcaption></figure>
 
 ## Added account management
 

@@ -19,7 +19,7 @@ You will see all seed phrases currently linked to the wallet. Here you can:&#x20
 
 You can remove any of the seed phrases from the list.
 
-This seed phrase does not have to be the current one or the only one. \
+This seed phrase does not have to be the current one.\
 You can always bring it back using the [export menu](ever-wallet-extension.md#export-seed-phrase).
 
 1. Go to the seeds and accounts management menu.
