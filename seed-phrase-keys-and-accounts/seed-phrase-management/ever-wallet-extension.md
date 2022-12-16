@@ -6,7 +6,7 @@ Go to the **Profile menu** and then click on **Manage seeds & accounts**.
 
 You will see all seed phrases currently linked to the wallet. Here you can:&#x20;
 
-<figure><img src="../../.gitbook/assets/image (5).png" alt=""><figcaption></figcaption></figure>
+<figure><img src="../../.gitbook/assets/image (39).png" alt=""><figcaption></figcaption></figure>
 
 ## Add a new seed phrase
 

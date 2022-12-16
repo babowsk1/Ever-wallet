@@ -4,7 +4,7 @@ Go to your **profile menu** and click **Manage seeds & accounts**. \
 The keys are stored in the seeds, so go to the menu of one of the seeds by clicking on it. \
 You will see a list of keys associated with this seed.&#x20;
 
-<figure><img src="../../.gitbook/assets/image (54).png" alt=""><figcaption></figcaption></figure>
+<figure><img src="../../.gitbook/assets/image (5).png" alt=""><figcaption></figcaption></figure>
 
 Here you can:
 
