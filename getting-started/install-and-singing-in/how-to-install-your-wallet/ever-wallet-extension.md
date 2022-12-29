@@ -12,7 +12,7 @@ description: Install EVER Wallet Chrome extension
 
 Immediately after installation, you will be redirected to the "Welcome to EVER Wallet" page, where you will be asked to:&#x20;
 
-* [Create a new wallet](../creating-a-new-wallet.md)
-* [Sign in with seed phrase](../sign-in-with-existing-seed-phrase.md)
+* [Create a new wallet](../creating-a-new-wallet/creating-a-new-wallet-extension.md)
+* [Sign in with seed phrase](../sign-in-with-existing-seed-phrase/sign-in-with-existing-seed-phrase-extension.md)
 * Sign in with ledger
 * [Restore from backup](../sign-in-with-existing-backup.md)

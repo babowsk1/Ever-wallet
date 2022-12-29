@@ -11,7 +11,7 @@ You will see all seed phrases currently linked to the wallet. Here you can:&#x20
 ## Add a new seed phrase
 
 1. Click **+ Add new** at the top right of the window.&#x20;
-2. Enter the name of the original phrase and then choose whether to [**create a new phrase**](../../getting-started/install-and-singing-in/creating-a-new-wallet.md) or [**import an existing one**](../../getting-started/install-and-singing-in/sign-in-with-existing-seed-phrase.md), then click next.&#x20;
+2. Enter the name of the original phrase and then choose whether to [**create a new phrase**](../../getting-started/install-and-singing-in/creating-a-new-wallet/creating-a-new-wallet-extension.md) or [**import an existing one**](../../getting-started/install-and-singing-in/sign-in-with-existing-seed-phrase/sign-in-with-existing-seed-phrase-extension.md), then click next.&#x20;
 
 <figure><img src="../../.gitbook/assets/image (16) (2).png" alt=""><figcaption></figcaption></figure>
 

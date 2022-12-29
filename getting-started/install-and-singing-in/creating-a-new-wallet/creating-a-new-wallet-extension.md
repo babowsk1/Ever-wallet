@@ -1,19 +1,19 @@
-# Creating a new wallet
+# Creating a new wallet Extension
 
 1. Start by selecting the option **Create a new wallet.**
 2. Copy down your seed phrase and store it in a safe place. It is best to have a few physical copies of the seed phrase stored in different places.&#x20;
 3. Pass through the seed phrase verification process.&#x20;
 4. Create a password. You’re going to need your password in order to confirm all the transactions you make with the wallet.
 
-<figure><img src="../../.gitbook/assets/image (7).png" alt=""><figcaption></figcaption></figure>
+<figure><img src="../../../.gitbook/assets/image (7).png" alt=""><figcaption></figcaption></figure>
 
 Now you’ve got your wallet all set up and you can start really working with your EVER Wallet!\
-In order to start fully using your EVER Wallet, you need to get [**EVER** ](../how-to-get-ever.md)and [**deploy** ](deploy/)your wallet:
+In order to start fully using your EVER Wallet, you need to get [**EVER** ](../../how-to-get-ever.md)and [**deploy** ](../deploy/)your wallet:
 
-{% content-ref url="deploy/" %}
-[deploy](deploy/)
+{% content-ref url="../deploy/" %}
+[deploy](../deploy/)
 {% endcontent-ref %}
 
-{% content-ref url="../how-to-get-ever.md" %}
-[how-to-get-ever.md](../how-to-get-ever.md)
+{% content-ref url="../../how-to-get-ever.md" %}
+[how-to-get-ever.md](../../how-to-get-ever.md)
 {% endcontent-ref %}
