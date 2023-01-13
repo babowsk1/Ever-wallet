@@ -38,7 +38,7 @@ After this, your `seed`will be added to the list. \
 Now you can [switch ](ever-wallet-app.md#manage-seed-phrase)between active`seeds`and also [manage](ever-wallet-app.md#manage-seed-phrase) them.
 {% endhint %}
 
-<figure><img src="../../.gitbook/assets/image (1).png" alt=""><figcaption></figcaption></figure>
+<figure><img src="../../.gitbook/assets/image (1) (3).png" alt=""><figcaption></figcaption></figure>
 
 ### Manage seed phrase
 
@@ -55,4 +55,4 @@ There are two steps to go to the seed phrase management menu:
 1. Go to `Profile` and click on `Manage seeds & accounts`
 2. Click on the three dots on the right side of the desired seed to open the management menu
 
-<figure><img src="../../.gitbook/assets/image (6).png" alt=""><figcaption></figcaption></figure>
+<figure><img src="../../.gitbook/assets/image (6) (5).png" alt=""><figcaption></figcaption></figure>
