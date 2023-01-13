@@ -23,3 +23,5 @@ There are three steps to get to the key management menu:
 1. Go to `Profile` and select `Manage seeds & accounts`
 2. Select the desired `seed`
 3. Click on the three dots to the right to open the management menu
+
+<figure><img src="../../.gitbook/assets/image (2).png" alt=""><figcaption></figcaption></figure>
