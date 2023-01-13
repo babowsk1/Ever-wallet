@@ -37,7 +37,7 @@ If you have lost your seed phrase, you can look it up again:&#x20;
 2. Click **Export Seed** at the bottom of the window.&#x20;
 3. Enter the <mark style="color:green;">**password**</mark> for the seed phrase (wallet password) and click **Confirm**.&#x20;
 
-<figure><img src="../../.gitbook/assets/image (9).png" alt=""><figcaption></figcaption></figure>
+<figure><img src="../../.gitbook/assets/image (9) (2).png" alt=""><figcaption></figcaption></figure>
 
 ## Backup all seed
 

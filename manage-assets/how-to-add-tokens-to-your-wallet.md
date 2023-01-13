@@ -18,4 +18,4 @@ To add other tokens to your wallet you have to click on the **Select Assets** me
 3. In the input line, enter the address **Root token contract**
 4. Click **Proceed**
 
-<figure><img src="../.gitbook/assets/image (2).png" alt=""><figcaption></figcaption></figure>
+<figure><img src="../.gitbook/assets/image (2) (1).png" alt=""><figcaption></figcaption></figure>

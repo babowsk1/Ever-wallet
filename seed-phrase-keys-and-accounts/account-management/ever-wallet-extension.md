@@ -44,4 +44,4 @@ At the top of the list of accounts linked to the key, click **+ Add new** to lin
 
 To remove an account from the list of displayed accounts, click the three dots at the top right of the account card and click Delete.
 
-<figure><img src="../../.gitbook/assets/image (6).png" alt=""><figcaption></figcaption></figure>
+<figure><img src="../../.gitbook/assets/image (6) (4).png" alt=""><figcaption></figcaption></figure>
