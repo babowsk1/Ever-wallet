@@ -9,7 +9,7 @@ Ever Wallet allows you to add an unlimited number of [keys](../architecture.md#p
 3. Click on `Add key` at the top of the screen
 4. Select any number of `keys` you want to add, or uncheck the `keys` that you want to remove and click `Select`
 
-<figure><img src="../../.gitbook/assets/image.png" alt=""><figcaption></figcaption></figure>
+<figure><img src="../../.gitbook/assets/image (10).png" alt=""><figcaption></figcaption></figure>
 
 {% hint style="success" %}
 This way, you can add and remove keys from the list. \

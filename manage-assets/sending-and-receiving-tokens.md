@@ -6,7 +6,7 @@ In order to find your address or QR code for receiving tokens click on the <mark
 This is your account address where your tokens will be stored. \
 You will have to share this address with whoever will send you tokens, regardless of the token being sent (this applies, of course, only to EVER token and other TIP-3.1 tokens).
 
-<figure><img src="../.gitbook/assets/image (16).png" alt=""><figcaption></figcaption></figure>
+<figure><img src="../.gitbook/assets/image (16) (3).png" alt=""><figcaption></figcaption></figure>
 
 ## Sending
 

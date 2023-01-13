@@ -25,7 +25,7 @@ Now you can [switch ](ever-wallet-app.md#manage-seed-phrase)between active`seeds
 
 <figure><img src="../../.gitbook/assets/image (13).png" alt=""><figcaption></figcaption></figure>
 
-### Import a seed phrase
+### Import a seed
 
 1. Go to Profile and click on `Manage seeds & accounts`
 2. Click `Add New` at the top of the screen
@@ -40,7 +40,7 @@ Now you can [switch ](ever-wallet-app.md#manage-seed-phrase)between active`seeds
 
 <figure><img src="../../.gitbook/assets/image (1) (3).png" alt=""><figcaption></figcaption></figure>
 
-### Manage seed phrase
+### Manage seed
 
 Using the seed management interface, you can:
 

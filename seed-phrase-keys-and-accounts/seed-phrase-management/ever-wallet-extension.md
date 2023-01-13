@@ -27,7 +27,7 @@ You can always bring it back using the [export menu](ever-wallet-extension.md#ex
 3. Click on the three dots at the top right of the window that opens and press Delete
 4. Confirm this action by clicking Delete at the bottom of the window that opens.
 
-<figure><img src="../../.gitbook/assets/image (12) (2).png" alt=""><figcaption></figcaption></figure>
+<figure><img src="../../.gitbook/assets/image (12) (2) (1).png" alt=""><figcaption></figcaption></figure>
 
 ## Export seed phrase
 
