@@ -17,9 +17,11 @@ Let's see what more the Seed Management interface permits you to do:
 5. Write down and save the `seed phrase` in a secure wayThe `seed phrase` is your proof of ownership of the wallet and the only way to gain or regain access to its management.
 6. Create a `password` It will be used to confirm transactions.
 
-After this, your `seed` will be added to the list.
+{% hint style="success" %}
+After this, your`seed`will be added to the list.
 
-Now you can switch between active `seeds`as well as [manage ](ever-wallet-app.md#manage-seed-phrase)them.
+Now you can [switch ](ever-wallet-app.md#manage-seed-phrase)between active`seeds`as well as [manage ](ever-wallet-app.md#manage-seed-phrase)them.
+{% endhint %}
 
 <figure><img src="../../.gitbook/assets/image (13).png" alt=""><figcaption></figcaption></figure>
 
@@ -29,9 +31,12 @@ Now you can switch between active `seeds`as well as [manage ](ever-wallet-app.md
 2. Click `Add New` at the top of the screen
 3. Select `Import seed`
 4. Enter a name for the `seed`. It will appear in your wallet
-5. Enter the `seed phrase` You can copy the `seed phrase` in advance to paste it by clicking `Paste all` in the upper right corner of the screen.
+5. Enter the `seed phrase`. You can copy the `seed phrase` in advance to paste it by clicking `Paste all` in the upper right corner of the screen.
 
-After this, your `seed`will be added to the list. Now you can switch between active `seeds`and also manage them.
+{% hint style="success" %}
+After this, your `seed`will be added to the list. \
+Now you can [switch ](ever-wallet-app.md#manage-seed-phrase)between active`seeds`and also [manage](ever-wallet-app.md#manage-seed-phrase) them.
+{% endhint %}
 
 <figure><img src="../../.gitbook/assets/image (1).png" alt=""><figcaption></figcaption></figure>
 
@@ -47,7 +52,7 @@ Using the seed management interface, you can:
 
 There are two steps to go to the seed phrase management menu:
 
-1. Go to `Profile`and click on `Manage seeds & accounts`
+1. Go to `Profile` and click on `Manage seeds & accounts`
 2. Click on the three dots on the right side of the desired seed to open the management menu
 
 <figure><img src="../../.gitbook/assets/image (6).png" alt=""><figcaption></figcaption></figure>
