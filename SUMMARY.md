@@ -23,6 +23,7 @@
   * [How to add tokens to your wallet](manage-assets/how-to-add-tokens-to-your-wallet.md)
   * [Sending and receiving tokens](manage-assets/sending-and-receiving-tokens.md)
   * [Transactions](manage-assets/transactions.md)
+* [APP Browser](app-browser.md)
 * [stEVER](stever.md)
 * [Seed phrase, keys and accounts](seed-phrase-keys-and-accounts/README.md)
   * [Architecture](seed-phrase-keys-and-accounts/architecture.md)

@@ -12,7 +12,7 @@ When you open the Ever Wallet app, you will be prompted to create a new wallet o
 4. Create a `password`. It will be used to confirm transactions.\
    Enable biometrics if you think it is necessary.
 
-<figure><img src="../../../.gitbook/assets/image (3).png" alt=""><figcaption></figcaption></figure>
+<figure><img src="../../../.gitbook/assets/image (3) (5).png" alt=""><figcaption></figcaption></figure>
 
 {% hint style="success" %}
 Congratulations. Your wallet has been successfully created. Now you can:
