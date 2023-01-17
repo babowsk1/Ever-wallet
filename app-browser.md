@@ -10,7 +10,7 @@ Other browser functionality includes:
 * A Bookmarking system
 * Browser history with a search feature that allows you to quickly return to previously used resources.
 * When you connect your wallet, you'll have the ability to choose exactly the account you want to use.
-* When using Octus Bridge or other dAPPs on Everscale that support connecting EVM and other mobile wallets, you will be able to connect them seamlessly
+* When using Octus Bridge or other Everscale dAPPs that support the connection of EVM and other mobile wallets, you will have the opportunity to connect them without any issues
 
 To go to the browser, click on the corresponding button at the bottom of the Ever Wallet app.
 
