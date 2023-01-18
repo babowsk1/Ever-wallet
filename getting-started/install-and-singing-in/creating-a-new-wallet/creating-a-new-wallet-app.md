@@ -20,8 +20,5 @@ Congratulations. Your wallet has been successfully created. Now you can:
 * [Sending and receiving tokens](../../../manage-assets/sending-and-receiving-tokens.md)
 * [Adding New Assets](../../../manage-assets/)
 * [Manage seeds, accounts and keys](../../../seed-phrase-keys-and-accounts/)
-* Use Built-in Browser[^1]
+* Use Built-in [Browser](../../../app-browser.md)
 {% endhint %}
-
-[^1]: 
-

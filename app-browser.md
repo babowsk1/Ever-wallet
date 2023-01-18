@@ -14,5 +14,5 @@ Other browser functionality includes:
 
 To go to the browser, click on the corresponding button at the bottom of the Ever Wallet app.
 
-<figure><img src=".gitbook/assets/image (3).png" alt=""><figcaption></figcaption></figure>
+<figure><img src=".gitbook/assets/image (3) (6).png" alt=""><figcaption></figcaption></figure>
 

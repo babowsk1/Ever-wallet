@@ -39,7 +39,13 @@ Accounts can be managed in two ways:
 1. In the `Wallet` section
 2. In the `Manage seeds & accounts` section
 
-In the first case, you just need to tap on the three dots in the upper right part of the account card you are interested in.
+In the first case, you just need to tap on the three dots in the upper right part of the account card you are interested in:
+
+* **Preferences** - in this menu you can rename the account, copy the wallet address and QR code, and open the account page in the blockchain explorer.&#x20;
+* **Custodians** - this menu displays a list of custodians in your [multisig wallet](../../multisig/).&#x20;
+* **Remove account** - by clicking, you can remove the account from the displayed ones.
+
+<figure><img src="../../.gitbook/assets/image (3).png" alt=""><figcaption></figcaption></figure>
 
 In the second case, you will need to:
 
@@ -50,8 +56,6 @@ In the second case, you will need to:
 There you will find a list of all the accounts linked to this key. \
 You can manage the account by clicking on the three dots of the account you need.
 
-* **Preferences** - in this menu you can rename the account, copy the wallet address and QR code, and open the account page in the blockchain explorer.&#x20;
-* **Custodians** - this menu displays a list of custodians in your [multisig wallet](../../multisig/).&#x20;
-* **Remove account** - by clicking, you can remove the account from the displayed ones.
+Also note that you can add a new account in this menu.
 
-<figure><img src="../../.gitbook/assets/image.png" alt=""><figcaption></figcaption></figure>
+<figure><img src="../../.gitbook/assets/image (2).png" alt=""><figcaption></figcaption></figure>
