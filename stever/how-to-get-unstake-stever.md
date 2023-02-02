@@ -2,12 +2,7 @@
 description: Stake your EVER and get stEVER
 ---
 
-# stEVER
-
-For more information about stEVER, you can check out the Broxus team's official Medium. \
-On this page, we will skip all the details and talk about how you can stake your EVER and get stEVER in exchange.
-
-{% embed url="https://broxus.medium.com/introducing-stever-and-the-new-era-of-liquid-staking-on-ever-dao-a52e77f48a85" %}
+# How to get/unstake stEVER
 
 ## Stake EVER, get stEVER
 
@@ -17,7 +12,7 @@ On this page, we will skip all the details and talk about how you can stake your
 3. Confirm the transaction by entering the password in the next window and click _Confirm transaction._
 4. After that, you will receive stEVER to your wallet balance.
 
-<figure><img src=".gitbook/assets/image (16) (3) (1).png" alt=""><figcaption></figcaption></figure>
+<figure><img src="../.gitbook/assets/image (16) (3) (1).png" alt=""><figcaption></figcaption></figure>
 
 ## Unstake stEVER, get EVER
 
@@ -28,4 +23,4 @@ On this page, we will skip all the details and talk about how you can stake your
 4. After that, you will receive EVER to your wallet balance within 36 hours of a successful transaction.\
    You can track the unstake process in the _In progress_ window of the _Stake_ section.
 
-<figure><img src=".gitbook/assets/image (27).png" alt=""><figcaption></figcaption></figure>
+<figure><img src="../.gitbook/assets/image (27).png" alt=""><figcaption></figcaption></figure>
