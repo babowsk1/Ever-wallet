@@ -38,6 +38,7 @@
   * [Account management](seed-phrase-keys-and-accounts/account-management/README.md)
     * [EVER Wallet App](seed-phrase-keys-and-accounts/account-management/ever-wallet-app.md)
     * [EVER Wallet Extension](seed-phrase-keys-and-accounts/account-management/ever-wallet-extension.md)
+* [Networks](networks.md)
 * [Multisig](multisig/README.md)
   * [Creating a Multisig account](multisig/creating-a-multisig-account.md)
   * [Add a Multisig account](multisig/add-a-multisig-account.md)
