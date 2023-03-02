@@ -45,7 +45,7 @@ In the first case, you just need to tap on the three dots in the upper right par
 * **Custodians** - this menu displays a list of custodians in your [multisig wallet](../../multisig/).&#x20;
 * **Remove account** - by clicking, you can remove the account from the displayed ones.
 
-<figure><img src="../../.gitbook/assets/image (3).png" alt=""><figcaption></figcaption></figure>
+<figure><img src="../../.gitbook/assets/image (3) (7).png" alt=""><figcaption></figcaption></figure>
 
 In the second case, you will need to:
 
