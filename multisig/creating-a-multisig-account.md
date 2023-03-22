@@ -23,7 +23,7 @@ You can get them [any way](../getting-started/how-to-get-ever.md) you want. For 
 
 6\. Click **Deploy**.
 
-<figure><img src="../.gitbook/assets/image (1) (4).png" alt=""><figcaption></figcaption></figure>
+<figure><img src="../.gitbook/assets/image (1) (4) (1).png" alt=""><figcaption></figcaption></figure>
 
 Now your multisig wallet is ready to go. \
 Now the custodian needs to [**add it to his EVER Wallet** ](add-a-multisig-account.md)to confirm transactions.
