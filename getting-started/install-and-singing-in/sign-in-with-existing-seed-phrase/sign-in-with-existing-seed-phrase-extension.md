@@ -2,8 +2,8 @@
 
 If you have already created a wallet on the Everscale network, you can add it to your EVER Wallet using your existing seed phrase.
 
-1. Choose **Sign in with Seed Phrase**
-2. Enter your seed phrase&#x20;
-3. Create a password. You’re going to need your password in order to confirm all the transactions you make with the wallet.
+1. Click on the EVER Wallet icon in the Chrome extensions menu to go to the wallet creation/login page.
+2. Select `Sign in with seed phrase`.
+3. Create a `password`. It will be used to confirm transactions.
 
-<figure><img src="../../../.gitbook/assets/image (31).png" alt=""><figcaption></figcaption></figure>
+<figure><img src="../../../.gitbook/assets/image.png" alt=""><figcaption></figcaption></figure>
