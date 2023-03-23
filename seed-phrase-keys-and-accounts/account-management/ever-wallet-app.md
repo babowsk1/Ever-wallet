@@ -58,4 +58,4 @@ You can manage the account by clicking on the three dots of the account you need
 
 Also note that you can add a new account in this menu.
 
-<figure><img src="../../.gitbook/assets/image (2).png" alt=""><figcaption></figcaption></figure>
+<figure><img src="../../.gitbook/assets/image (2) (5).png" alt=""><figcaption></figcaption></figure>

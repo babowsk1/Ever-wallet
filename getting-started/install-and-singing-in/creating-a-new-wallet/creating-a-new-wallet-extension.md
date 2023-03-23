@@ -10,7 +10,7 @@ When you open the Ever Wallet extension, you will be prompted to create a new wa
 4. Pass through the seed phrase verification process.&#x20;
 5. Create a `password`. It will be used to confirm transactions.
 
-<figure><img src="../../../.gitbook/assets/image (1).png" alt=""><figcaption></figcaption></figure>
+<figure><img src="../../../.gitbook/assets/image (1) (2).png" alt=""><figcaption></figcaption></figure>
 
 {% hint style="success" %}
 Now you’ve got your wallet all set up and you can start working with your EVER Wallet!\

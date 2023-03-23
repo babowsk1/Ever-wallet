@@ -1,19 +1,16 @@
 # EVER Wallet Extension
 
-Manage seeds & accounts
+To go to the seed management menu, go to the profile menu (the icon is in the upper right corner) and click on `Manage seeds & accounts`
 
-Go to the **Profile menu** and then click on **Manage seeds & accounts**.
+## Add a new seed
 
-You will see all seed phrases currently linked to the wallet. Here you can:&#x20;
+1. Click `Add new seed`
+2. Enter the name of the new seed and then choose `create new seed`, then click next.&#x20;
+3. Write down and/or copy and otherwise save in a secure manner the displayed `seed phrase`. The seed phrase is your proof of ownership of the wallet and the only way to gain or [regain access to its management](../../getting-started/install-and-singing-in/sign-in-with-existing-seed-phrase/sign-in-with-existing-seed-phrase-extension.md).
+4. Go through the seed phrase verification process.
+5. Set a password. It will be used when signing transactions.
 
-<figure><img src="../../.gitbook/assets/image (39).png" alt=""><figcaption></figcaption></figure>
-
-## Add a new seed phrase
-
-1. Click **+ Add new** at the top right of the window.&#x20;
-2. Enter the name of the original phrase and then choose whether to [**create a new phrase**](../../getting-started/install-and-singing-in/creating-a-new-wallet/creating-a-new-wallet-extension.md) or [**import an existing one**](../../getting-started/install-and-singing-in/sign-in-with-existing-seed-phrase/sign-in-with-existing-seed-phrase-extension.md), then click next.&#x20;
-
-<figure><img src="../../.gitbook/assets/image (16) (2).png" alt=""><figcaption></figcaption></figure>
+<figure><img src="../../.gitbook/assets/image (4).png" alt=""><figcaption></figcaption></figure>
 
 ## Delete seed phrase
 
