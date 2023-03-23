@@ -12,4 +12,4 @@ Done, now you can edit the added contact. \
 To do this, click on the three dots next to this contact.
 {% endhint %}
 
-<figure><img src=".gitbook/assets/image.png" alt=""><figcaption></figcaption></figure>
+<figure><img src=".gitbook/assets/image (16).png" alt=""><figcaption></figcaption></figure>
