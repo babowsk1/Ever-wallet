@@ -8,7 +8,7 @@ If you have already created a wallet on the Everscale network, you can add it to
 2. Select `Sign in with seed phrase`.
 3. Create a `password`. It will be used to confirm transactions.
 
-<figure><img src="../../../.gitbook/assets/image (2).png" alt=""><figcaption></figcaption></figure>
+<figure><img src="../../../.gitbook/assets/image (2) (1).png" alt=""><figcaption></figcaption></figure>
 
 ### If you want to add another seed to your wallet:
 

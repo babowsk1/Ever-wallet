@@ -14,16 +14,20 @@ To go to the seed management menu, go to the profile menu (the icon is in the up
 
 ## Import seed
 
-1. Click Import seed
+1. Click `Add new seed`
 2. Enter the name of the new seed and then choose `import seed`, then click next.&#x20;
 3. Enter seed phrase and click next
 4. Set a `password`. It will be used when signing transactions.
 
-<figure><img src="../../.gitbook/assets/image.png" alt=""><figcaption></figcaption></figure>
+<figure><img src="../../.gitbook/assets/image (1).png" alt=""><figcaption></figcaption></figure>
 
-## Backup all seed
+## Manage seeds&#x20;
 
-You can create a backup file of your seeds, for [quick entry](../../getting-started/install-and-singing-in/sign-in-with-existing-backup.md), in case of log out from the EVER Wallet extension:
+You can export a seed, change its name, password and add new keys. \
+To do this, you need to open the seed management menu: \
+Just click on the `three dots` next to the name of the seed you are interested in.
 
-<figure><img src="../../.gitbook/assets/image (3) (1).png" alt=""><figcaption></figcaption></figure>
+In addition, you can import or delete all your seeds from the wallet. To do this, click on the `three dots` at the top right of the seed Management menu and select the item you are interested in.
+
+<figure><img src="../../.gitbook/assets/image (2).png" alt=""><figcaption></figcaption></figure>
 

@@ -18,7 +18,7 @@ Done! Your new account has been successfully created and its card has been added
 If the [type ](../../getting-started/install-and-singing-in/types-of-account.md)of account created requires it, proceed with its [deployment](../../getting-started/install-and-singing-in/deploy/).
 {% endhint %}
 
-<figure><img src="../../.gitbook/assets/image (1) (4).png" alt=""><figcaption></figcaption></figure>
+<figure><img src="../../.gitbook/assets/image (1) (4) (2).png" alt=""><figcaption></figcaption></figure>
 
 ### Add existing account
 
