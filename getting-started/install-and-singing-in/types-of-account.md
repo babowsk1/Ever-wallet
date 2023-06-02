@@ -14,4 +14,4 @@ If you want to use a multisig wallet with 3 or more custodians on [FlatQube ](br
 
 * **Surf** - Technically, this kind of wallet is the same as SetCodeMultisig. You should use this kind of wallet to import your Ever Surf wallet.&#x20;
 * **WalletV3** - this is a small and simple contract that allows you to deploy your wallet at the same time as you make a transfer and has a 24-word seed phrase.
-* **HighloadWalletV2** - **** small legacy contract with one custodian and advanced replay protection. Deploys automatically.
+* **HighloadWalletV2** - small legacy contract with one custodian and advanced replay protection. Deploys automatically.

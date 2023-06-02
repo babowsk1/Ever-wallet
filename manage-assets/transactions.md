@@ -21,7 +21,7 @@ Here you can see the following transaction details:&#x20;
 * **Date and time** of the transaction
 * Transaction **status**&#x20;
 * Transaction **type**
-* ****[**Blockchain fee**](../concepts/fees.md) spent on the transaction
+* [**Blockchain fee**](../concepts/fees.md) spent on the transaction
 * **Amount**
 * **Sender's address**&#x20;
 * Transaction **Hash ID**

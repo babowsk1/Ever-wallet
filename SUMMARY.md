@@ -1,7 +1,6 @@
 # Table of contents
 
-* [About EVER Wallet](README.md)
-* [Introduction](introduction/README.md)
+* [Introduction](README.md)
   * [About EVER Wallet](introduction/about-ever-wallet.md)
   * [Everscale](introduction/everscale.md)
 * [Getting started](getting-started/README.md)
