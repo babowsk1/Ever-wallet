@@ -1,5 +1,5 @@
 ---
-cover: ../.gitbook/assets/EVER wallet_gitbook.png
+cover: .gitbook/assets/EVER wallet_gitbook.png
 coverY: 0
 ---
 
@@ -7,7 +7,7 @@ coverY: 0
 
 ### **Introduction**
 
-Welcome to SparX, your gateway to the world of digital assets on various TVM networks. SparX is a feature-rich web3 wallet specifically designed to provide seamless integration with different TVM networks, including Everscale, Venom and potentially others. With SparX, you can conveniently manage your digital assets across multiple TVM networks, enjoying fast and secure access on various devices.
+Welcome to EVER Wallet, your gateway to the world of digital assets on various TVM networks. EVER Wallet is a feature-rich web3 wallet specifically designed to provide seamless integration with different TVM networks, including Everscale, Venom and potentially others. With EVER Wallet, you can conveniently manage your digital assets across multiple TVM networks, enjoying fast and secure access on various devices.
 
 ### **About EVER Wallet**
 
