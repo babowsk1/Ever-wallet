@@ -111,6 +111,6 @@ Soon, you'll be able to purchase EVER directly within the **EVER Wallet** app us
 
 </details>
 
-At the core of SparX is the Everscale blockchain, where every aspect, including accounts, is implemented as a smart contract. This architecture ensures the security and reliability of your digital assets within the Everscale network. While the standard account type is automatically deployed, certain account types, including multisignature wallets, require a deployment process to activate their functionality.
+At the core of EVER Wallet is the Everscale blockchain, where every aspect, including accounts, is implemented as a smart contract. This architecture ensures the security and reliability of your digital assets within the Everscale network. While the standard account type is automatically deployed, certain account types, including multisignature wallets, require a deployment process to activate their functionality.
 
-SparX is committed to making digital asset management secure, convenient, and efficient. Whether you're a seasoned blockchain user or a newcomer, SparX has everything you need to navigate the Everscale ecosystem.
+EVER Wallet is committed to making digital asset management secure, convenient, and efficient. Whether you're a seasoned blockchain user or a newcomer, EVER Wallet has everything you need to navigate the Everscale ecosystem.
